@@ -38,8 +38,7 @@ python setup.py sdist
 pip install dist/operaciones-numeros-complejos-0.1.tar.gz
 Built With
 Python - Lenguaje de programación
-Math Library - Para funciones matemáticas
-de más librerias de python.
+Math Library - Para funciones matemáticas, de más librerias de python paras las pruebas.
 
 # Versioning
 
